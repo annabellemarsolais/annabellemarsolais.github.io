@@ -1,0 +1,183 @@
+* {
+    border:0;
+    margin:0;
+    padding:0;
+    outline:0;
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    background-color: #000000;
+}
+
+.parallax-bg {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;          
+    text-align: center;    
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;        
+}
+
+.box {
+    background-color: rgba(255,255,255,0.80);    
+    
+    border:2px black solid;
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-top: 1em;
+    padding-left: 1em;
+    padding-right: 1em;
+    align-items: stretch;
+}
+
+.full-w {
+    min-width: 100%;
+}
+
+.navbar {
+    background-color: #000000;
+}
+
+.navbar-text, 
+.navbar-brand, 
+.nav-item,
+.nav-link, 
+.nav-toggler-icon {
+    color: #ffffff !important;
+}
+
+.title {
+    color: #ffffff;
+    text-shadow: 2px 2px rgba(0,0,0,0.6);
+    margin-bottom: 2em;
+}
+
+.text {
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+p {
+    text-align: justify;
+}
+
+#section01a {
+    background-image: url('assets/images/champ_patates.jpg');
+    min-height:500px;      
+}
+
+#section01b {
+    background-color: #000000;
+    color: white;
+}
+
+#section01c {
+    background-color: #222222;
+    color: white;
+}
+
+#section01d {
+    background-color: #000000;
+    color: white;
+}
+
+#section02a {
+    background-image: url('assets/images/image\ bleuets\ pp.jpg');
+    min-height:500px;      
+}
+
+#section02b {
+    background-color: #000000;
+    color: white;
+}
+
+#section02c {
+    background-image: url('assets/images/image\ citrouille\ pp.webp');
+    min-height:500px;      
+}
+
+#section03a {
+    background-color: #000000;
+    color: white;
+}
+
+#section03b {
+    background-color: #222222;
+    color: white;    
+}
+
+#section03c {
+    background-color: #000000;
+    color: white;
+}
+
+#section03d {
+    background-color: #3e4e6e;
+    color: white;
+    padding-bottom: 10px;
+}
+
+#section03e {
+    background-color: #6a8b21;
+    color: white;
+    padding-bottom: 10px
+}
+
+#section03f {    
+    background-color: #C82A2B;
+    color: white;
+    padding-bottom: 10px
+}
+
+#section03g {
+    background-color: #cc8330;
+    color: white;
+    padding-bottom: 10px
+}
+
+#section03i {
+    background-color: #c21c53;
+    color: white;
+    padding-bottom: 10px
+}
+
+#section03h {
+    background-image: url('assets/images/003.jpg');
+    min-height:500px;    
+}
+
+#section04a {
+    background-image: url('assets/images/image\ fraise\ pp.jpg');
+    min-height:500px;    
+}
+
+#section05a {
+    background-color: #000000;
+    color: white;            
+}
+
+#section06a {
+    background-color: #222222;
+    color: white;            
+}
+
+#section-source {
+    background: #222222;
+    color: white
+}
+
+.nav {
+    border-top: 1px solid #666666;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #222222;
+}
