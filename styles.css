@@ -123,31 +123,31 @@ p {
 #section03d {
     background-color: #3e4e6e;
     color: white;
-    padding-bottom: 10px;
+    padding-bottom: 1px;
 }
 
 #section03e {
     background-color: #6a8b21;
     color: white;
-    padding-bottom: 10px
+    padding-bottom: 1px
 }
 
 #section03f {    
     background-color: #C82A2B;
     color: white;
-    padding-bottom: 10px
+    padding-bottom: 1px
 }
 
 #section03g {
     background-color: #cc8330;
     color: white;
-    padding-bottom: 10px
+    padding-bottom: 1px
 }
 
 #section03i {
     background-color: #c21c53;
     color: white;
-    padding-bottom: 10px
+    padding-bottom: 1px
 }
 
 #section03h {
@@ -161,12 +161,15 @@ p {
 }
 
 #section05a {
-    background-color: #000000;
+    border-top: 1px solid #666666;
+    padding-top: 20px;
+    padding-bottom: 1px;
+    background-color: #212121;
     color: white;            
 }
 
 #section06a {
-    background-color: #222222;
+    background-color: #414141;
     color: white;            
 }
 
